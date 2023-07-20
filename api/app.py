@@ -2,7 +2,7 @@ from flask import Flask, request, abort
 from urllib.parse import parse_qsl
 
 from events.basic import *
-from events.service import *
+# from events.service import *
 # from line_bot_api import *
 
 # from extensions import db, migrate
